@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"managed-instance-group","Source":"registry.terraform.io/GoogleCloudPlatform/managed-instance-group/google","Version":"1.1.15","Dir":".terraform/modules/managed-instance-group"}]}
